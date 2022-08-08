@@ -1,7 +1,7 @@
 👋 Hi, I’m @timwalkercs
 
 👀 I’m interested in:
-  - computer
+  - getting a job 🤡
 
 🌱 I’m currently learning:
   - C++
