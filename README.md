@@ -1,11 +1,11 @@
 👋 Hi, I’m @timwalkercs
 
 👀 I’m interested in:
-  - getting a job 🤡
+  - getting a job
 
 🌱 I’m currently learning:
   - C#
-  - ReactJS
+  - Javascript / REACT
 
 📫 How to reach me: 
   - Email { tpw32@scarletmail.rutgers.edu }
