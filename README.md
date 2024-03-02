@@ -1,7 +1,7 @@
 👋 Hi, I’m @timwalkercs
 
 👀 I’m interested in:
-  - getting a job
+  - being hired
 
 🌱 I’m currently learning:
   - C#
