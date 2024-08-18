@@ -5,7 +5,8 @@
 
 🌱 I’m currently learning:
   - C#
-  - Javascript / REACT
+  - -Javascript (Node, React, Vue)
+  - MongoDB
 
 📫 How to reach me: 
   - Email { tpw32@scarletmail.rutgers.edu }
