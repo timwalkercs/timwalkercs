@@ -1,8 +1,3 @@
-👋 Hi, I’m @timwalkercs
-
-👀 I’m interested in:
-  - being hired
-
 🌱 I’m currently learning:
   - C#
   - -Javascript (Node, React, Vue)
