@@ -1,7 +1,2 @@
-🌱 I’m currently learning:
-  - C#
-  - -Javascript (Node, React, Vue)
-  - MongoDB
-
 📫 How to reach me: 
-  - Email { tpw32@scarletmail.rutgers.edu }
+  - Email { timothywalker2000@gmail.com }
