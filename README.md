@@ -23,8 +23,6 @@
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 [![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=fff)](#)
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-
 <hr>
 
 📫 How to reach me: 
